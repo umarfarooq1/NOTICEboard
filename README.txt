@@ -40,5 +40,3 @@ password : abcdefghi123*
 
 Enjoy the app!
 ==========================================================================================================
-
-Github link: https://github.com/zainimran/NOTICEboard/tree/newbranch
